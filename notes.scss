@@ -1,0 +1,5 @@
+
+// good transformation information hovering
+.hovering-text-transform{
+ transition: opacity .35s cubic-bezier(.215,.61,.355,1),-webkit-transform .35s cubic-bezier(.215,.61,.355,1);
+}
